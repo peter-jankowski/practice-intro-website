@@ -1,0 +1,162 @@
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1566041510394-cf7c8fe21800?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=668&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    position: relative;
+}
+
+.bg-img {
+    background-image: url("https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2782&q=80");
+  
+    min-height: 380px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    position: relative;
+
+    text-align: center;
+  }
+
+  .bg-img {
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    position: relative;
+
+    text-align: center;
+  }
+
+.container {
+    width: 100%;
+}
+
+.navbar {
+    background: none;
+}
+
+.nav-link1 {
+    color: white;
+}
+
+.nav-link2 {
+    color: black;
+}
+
+h3 {
+    margin-top: 100px;
+    color: white;
+}
+
+h6 {
+    color: rgba(255, 255, 255, 0.575);
+}
+
+.btn, .btn-primary {
+    margin-top: 20px;
+    background-color: rgb(81, 178, 238);
+    border-radius: 15px;
+    width: 150px;
+}
+
+.d-flex-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+}
+
+.emptySpace {
+    height: 100px;
+}
+
+.card-text {
+    font-size: 12px;
+}
+
+.col-md-6 {
+    margin-left: 80px;;
+}
+
+.marginshift {
+    margin-left: 16px;;
+}
+
+.backgroundwhite {
+    background-color: white;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.StatsRow {
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+    height: 300px;
+    width: 100%;
+    border: 0px solid red;
+}
+
+.InterestIcon {
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Interest1 {
+    border: 2px solid rgb(255, 132, 95, 0.685);
+    background-color: rgb(255, 180, 95);
+    background: linear-gradient(to bottom, rgb(255, 132, 95), rgb(255, 180, 95));
+}
+
+.Interest2 {
+    border: 2px solid rgba(41, 184, 165, 0.685);
+    background-color: rgb(75, 206, 188);
+    background: linear-gradient(to bottom, rgb(41, 151, 184), rgb(75, 206, 188));
+}
+
+.Interest3 {
+    border: 2px solid rgba(160, 107, 209, 0.685);
+    background-color: rgb(232, 117, 236);
+    background: linear-gradient(to bottom, rgb(160, 107, 209), rgb(232, 117, 236));
+}
+
+.Stats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px;
+    height: 300px;
+    width: 240px;
+    background-color: white;
+    border: 0px solid red;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+
+.InterestText {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+.whitetext {
+    margin: 10px;
+    font-size: 10px;
+    color: white;
+}
+
+.myinterests {
+    margin-left: 20px;
+}
